@@ -1,0 +1,5 @@
+[project]
+name = "swim-guide-backend"
+version = "0.1.0"
+description = "Swim Guide Platform Backend"
+requires-python = ">=3.11"
